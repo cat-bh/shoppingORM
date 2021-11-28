@@ -15,7 +15,7 @@ This is the backend for an ecommerce site with the database set up to allow for 
 
 ## Demo
 
-[Walkthrough video](linkhere)
+[Walkthrough video](https://watch.screencastify.com/v/YHYwj32bhIOOhzVA82O1)
 
 ## Made using:
 
